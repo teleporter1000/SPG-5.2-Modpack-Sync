@@ -1,0 +1,17 @@
+name = "Tameable Beasts"
+filename = "tameablebeasts-6.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/IOZULlo2/versions/Rg4TgJOE/tameablebeasts-6.2.jar"
+hash-format = "sha512"
+hash = "4c2b45c99c99a2e2823f923bed260978283a188240ae77a2168734afe4648e5ebef5175a458de573779818e7905da1cb6b7087b69fa9dd5e57ac8663efdf44cc"
+
+[update]
+[update.modrinth]
+mod-id = "IOZULlo2"
+version = "Rg4TgJOE"
+
+[update.do_updates]
+do_updates = "true"
